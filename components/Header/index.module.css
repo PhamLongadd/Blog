@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link h1 {
+    font-size: 100px;
+    color: black;
+}

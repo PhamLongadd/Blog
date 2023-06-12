@@ -1,0 +1,18 @@
+.wrapper{
+    border: 15px solid #fecd43;
+    height: auto;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

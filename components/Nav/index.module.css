@@ -1,0 +1,40 @@
+.container{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 48px;
+    border-radius: 100px;
+    background-color: #fecd43 ;
+}
+
+.dark{
+    background-color: transparent;
+    border: none;
+    width: 90px;
+    height: 36px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.dark:focus{
+    background-color: #7d7aff;
+}
+
+.light{
+    background-color: transparent;
+    border: none;
+    width: 90px;
+    height: 36px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.light:focus{
+    background-color: #7d7aff;
+}
